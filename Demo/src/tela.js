@@ -27,7 +27,7 @@ class Tela{
             <div class="card" style="width: 50%;" onclick="window.verificarSelecao('${item.id}' , '${item.nome}')">
                 <img src="${item.img}" name="${item.nome}" class="card-img-top" alt="...">
             </div>
-            <br />
+            
         </div>
         
         
