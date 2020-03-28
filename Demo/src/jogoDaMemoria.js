@@ -7,7 +7,6 @@ class JogoDaMemoria{
         this.heroisIniciais = [
             {img:'./arquivo/t.jpg', nome: 't'},
             {img:'./arquivo/g.jpg', nome: 'g'},
-           
             {img:'./arquivo/s.jpg', nome: 's'},
             {img:'./arquivo/h.jpg', nome: 'h'}
             
