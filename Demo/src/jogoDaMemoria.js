@@ -5,10 +5,10 @@ class JogoDaMemoria{
         this.util = util
 
         this.heroisIniciais = [
-            {img:'./arquivo/mimi.jpg', nome: 't'},
-            {img:'./arquivo/sol.jpg', nome: 'g'},
-            {img:'./arquivo/fe.jpg', nome: 'u'},
-            {img:'./arquivo/grazi.jpg', nome: 'h'}
+            {img:'./arquivo/du.jpg', nome: 't'},
+            {img:'./arquivo/m1.jpg', nome: 'g'},
+            {img:'./arquivo/d1.jpg', nome: 'u'},
+            {img:'./arquivo/e1.jpg', nome: 'h'}
             
         ]
         this.iconePadrao = './arquivo/ninja.png'
